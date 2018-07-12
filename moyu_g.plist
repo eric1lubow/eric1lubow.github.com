@@ -9,7 +9,7 @@
           <key>kind</key>
           <string>software-package</string>
           <key>url</key>
-          <string><![CDATA[https://eric1lubow.github.io/moyu_moyu.ipa_1.14.ipa]]></string>
+          <string><![CDATA[https://b.fusetools.com.cn/ipas/7dad096835521a0fecd7a9dd92c030f0/picacg_moyu.ipa]]></string>
         </dict>
         <dict>
           <key>kind</key>
@@ -17,7 +17,7 @@
           <key>needs-shine</key>
           <integer>0</integer>
           <key>url</key>
-          <string><![CDATA[http://firicon.fir.im/2abbabac82214471fdcfc139bfc356c2842d8627?e=1515857912&token=LOvmia8oXF4xnLh0IdH05XMYpH6ENHNpARlmPc-T:TlWzZXhFik6dAyCHt-As5x1vFJ4=]]></string>
+          <string><![CDATA[http://b.fusetools.com.cn/icon.png]]></string>
         </dict>
         <dict>
           <key>kind</key>
@@ -25,19 +25,19 @@
           <key>needs-shine</key>
           <true/>
           <key>url</key>
-          <string><![CDATA[http://firicon.fir.im/2abbabac82214471fdcfc139bfc356c2842d8627?e=1515857912&token=LOvmia8oXF4xnLh0IdH05XMYpH6ENHNpARlmPc-T:TlWzZXhFik6dAyCHt-As5x1vFJ4=]]></string>
+          <string><![CDATA[http://b.fusetools.com.cn/icon.png]]></string>
         </dict>
       </array>
       <key>metadata</key>
       <dict>
         <key>bundle-identifier</key>
-        <string>com.moyu.ios</string>
+        <string>com.picacg.acg</string>
         <key>bundle-version</key>
-        <string><![CDATA[1.14]]></string>
+        <string><![CDATA[5.7]]></string>
         <key>kind</key>
         <string>software</string>
         <key>title</key>
-        <string><![CDATA[魔芋助手]]></string>
+        <string><![CDATA[PicACG]]></string>
       </dict>
     </dict>
   </array>

@@ -17,7 +17,7 @@
           <key>needs-shine</key>
           <integer>0</integer>
           <key>url</key>
-          <string><![CDATA[http://b.fusetools.com.cn/icon.png]]></string>
+          <string><![CDATA[https://b.fusetools.com.cn/icon.png]]></string>
         </dict>
         <dict>
           <key>kind</key>
@@ -25,7 +25,7 @@
           <key>needs-shine</key>
           <true/>
           <key>url</key>
-          <string><![CDATA[http://b.fusetools.com.cn/icon.png]]></string>
+          <string><![CDATA[https://b.fusetools.com.cn/icon.png]]></string>
         </dict>
       </array>
       <key>metadata</key>
